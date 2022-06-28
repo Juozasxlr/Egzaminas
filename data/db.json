@@ -1,0 +1,16 @@
+{
+  "knygos": [
+    {
+      "title": "Harry Potter and the Philosopher's Stone",
+      "body": "It is a story about Harry Potter, an orphan brought up by his aunt and uncle because his parents were killed when he was a baby. Harry is unloved by his uncle and aunt but everything changes when he is invited to join Hogwarts School of Witchcraft and Wizardry and he finds out he's a wizard.",
+      "author": "J.K. Rowling",
+      "id": 2
+    },
+    {
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "body": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron. An ancient Ring thought lost for centuries has been found, and through a strange twist of fate has been given to a small Hobbit named Frodo.",
+      "author": "J. R. R. Tolkien",
+      "id": 3
+    }
+  ]
+}
